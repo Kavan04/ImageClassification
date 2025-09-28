@@ -1,16 +1,15 @@
+# 🖼️ Image Classification with CNN
 
-# 🖼️ Image Classification with RNN
-
-This project demonstrates a simple **image classification pipeline** using a **Recurrent Neural Network (RNN)**. It takes a set of random images, processes them into sequences, and predicts their class labels.
+This project demonstrates a simple **image classification pipeline** using a **Convolutional Neural Network (CNN)**. It takes a set of random images, processes them, and predicts their class labels.
 
 ---
 
 ## 🚀 Features
 - ✅ Load and preprocess images of various formats  
-- ✅ Convert images into sequences suitable for RNN input  
-- ✅ Train and evaluate an **RNN model** for classification  
+- ✅ Use a **CNN model** for feature extraction and classification  
+- ✅ Train and evaluate the model on a small dataset  
 - ✅ Predict labels for new, unseen images  
-- ✅ Supports configurable model architecture and hyperparameters  
+- ✅ Configurable model architecture and hyperparameters  
 
 ---
 
